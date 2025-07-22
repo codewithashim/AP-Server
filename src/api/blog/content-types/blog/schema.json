@@ -43,6 +43,10 @@
       "options": {
         "apiUrl": "tags"
       }
+    },
+    "is_featured": {
+      "type": "boolean",
+      "default": false
     }
   }
 }
